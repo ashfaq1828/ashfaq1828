@@ -1,5 +1,20 @@
 # 💫 About Me:
-I'm senior big data engineer working at chubb has experience in azure databricks, sql server, snowflake, python, pyspark, ETL, ELT, LLM and GEn AI<br>write me github content 
+
+Hi, I'm Mohammed Ashfaq Ali
+
+🚀 Azure Big Data Engineer | Data & AI Enthusiast | Backend Developer
+
+I specialize in building scalable, end-to-end data solutions — from data ingestion to business insights. With hands-on experience in Azure ecosystem and modern AI integrations, I enjoy transforming raw data into meaningful intelligence.
+
+💼 What I Do
+
+🔹 Design and build ETL/ELT pipelines using Azure Data Factory
+🔹 Process large-scale data with Azure Databricks & PySpark
+🔹 Work with Delta Lake & Lakehouse architecture
+🔹 Develop backend APIs using FastAPI
+🔹 Build AI-powered applications using Azure OpenAI / GPT models
+🔹 Store & manage data in Azure SQL, MongoDB, Blob Storage
+🔹 Create business reports in Power BI & Tableau
 
 
 ## 🌐 Socials:
