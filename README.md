@@ -9,11 +9,17 @@ I specialize in building scalable, end-to-end data solutions — from data inges
 💼 What I Do
 
 🔹 Design and build ETL/ELT pipelines using Azure Data Factory
+
 🔹 Process large-scale data with Azure Databricks & PySpark
+
 🔹 Work with Delta Lake & Lakehouse architecture
+
 🔹 Develop backend APIs using FastAPI
+
 🔹 Build AI-powered applications using Azure OpenAI / GPT models
+
 🔹 Store & manage data in Azure SQL, MongoDB, Blob Storage
+
 🔹 Create business reports in Power BI & Tableau
 
 
